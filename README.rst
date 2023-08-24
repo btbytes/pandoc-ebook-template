@@ -1,6 +1,10 @@
 Pandoc Markdown ebook template
 ==============================
 
+Forked from `Source <https://notabug.org/kmac/pandoc-ebook-template>`_ on 2023-08-24.
+
+
+
 This project defines a skeleton repo for creating ebooks out of `Pandoc Markdown
 <http://johnmacfarlane.net/pandoc/README.html>`_.  Pandoc is a great tool for
 writing ebooks with simple to moderately complex formatting, but I've found that
